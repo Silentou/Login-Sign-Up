@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6ACAC9C9"
+    android:backgroundTint="#59232222"
+    android:gravity="center">
+
+
+    <ProgressBar
+        android:id="@+id/progress_Bar_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminate="true"
+        android:progress="@integer/material_motion_duration_long_1"
+        android:secondaryProgressTint="@color/teal_700"
+        android:backgroundTint="@color/teal_700"
+        android:progressTint="@color/light_blue_A400"
+        app:indicatorDirectionCircular="clockwise"
+        app:indicatorInset="4dp"
+        app:indicatorSize="40dp" />
+
+</RelativeLayout>

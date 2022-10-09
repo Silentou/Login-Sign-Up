@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205074269676",
+    "project_id": "claysol-4f66e",
+    "storage_bucket": "claysol-4f66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205074269676:android:c8d1b07faeafe7dd8becc9",
+        "android_client_info": {
+          "package_name": "com.kamesh.claysol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205074269676-c7a6vbu0ue0n6g5557mlj0heqr23pgdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamesh.claysol",
+            "certificate_hash": "e70211f8280621647ef0c8358a2fdeadad0b243f"
+          }
+        },
+        {
+          "client_id": "205074269676-poud1pd784ib9qg10984moqomesuii0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHu9ntDK0LudB_UmxVUge7uhVWMJi3MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205074269676-poud1pd784ib9qg10984moqomesuii0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
